@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "miprimermod:block/olla" },
+    "facing=south": { "model": "miprimermod:block/olla", "y": 180 },
+    "facing=east":  { "model": "miprimermod:block/olla", "y": 90 },
+    "facing=west":  { "model": "miprimermod:block/olla", "y": 270 }
+  }
+}
