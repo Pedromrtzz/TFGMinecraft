@@ -5,45 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9f15a69-6e96-4ad2-bf0d-35339633e512" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/miorganizacion/miprimermod/init/custom/OllaBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/miprimermod/blockstates/olla.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/miprimermod/models/block/olla.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/data/miprimermod/loot_tables/blocks/olla.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.2/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.2/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.2/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.2/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2024-11-19-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2024-11-19-1.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2024-11-19-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2024-11-19-2.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2024-11-19-3.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2024-11-19-3.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2024-11-19-4.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2024-11-19-4.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/debug-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-1.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/debug-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-2.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/debug-3.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-3.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/debug-4.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-4.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/debug-5.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-5.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/latest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Pruebas TFG/DIM-1/data/raids.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Pruebas TFG/DIM-1/data/raids.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Pruebas TFG/DIM1/data/raids_end.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Pruebas TFG/DIM1/data/raids_end.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Pruebas TFG/data/raids.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Pruebas TFG/data/raids.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Pruebas TFG/entities/r.-1.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Pruebas TFG/entities/r.-1.-1.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Pruebas TFG/entities/r.-1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Pruebas TFG/entities/r.-1.0.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Pruebas TFG/entities/r.0.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Pruebas TFG/entities/r.0.-1.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Pruebas TFG/entities/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Pruebas TFG/entities/r.0.0.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Pruebas TFG/level.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Pruebas TFG/level.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Pruebas TFG/level.dat_old" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Pruebas TFG/level.dat_old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Pruebas TFG/playerdata/380df991-f603-344c-a090-369bad2a924a.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Pruebas TFG/playerdata/380df991-f603-344c-a090-369bad2a924a.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Pruebas TFG/playerdata/380df991-f603-344c-a090-369bad2a924a.dat_old" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Pruebas TFG/playerdata/380df991-f603-344c-a090-369bad2a924a.dat_old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Pruebas TFG/region/r.-1.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Pruebas TFG/region/r.-1.-1.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Pruebas TFG/region/r.-1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Pruebas TFG/region/r.-1.0.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Pruebas TFG/region/r.0.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Pruebas TFG/region/r.0.-1.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Pruebas TFG/region/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Pruebas TFG/region/r.0.0.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Pruebas TFG/stats/380df991-f603-344c-a090-369bad2a924a.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Pruebas TFG/stats/380df991-f603-344c-a090-369bad2a924a.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/usercache.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/usercache.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/miorganizacion/miprimermod/init/custom/BasuraBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/miprimermod/blockstates/basura.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/miprimermod/models/block/basura.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/miprimermod/models/item/basura.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/miprimermod/textures/block/basura.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/miprimermod/textures/block/piebas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/miprimermod/textures/block/tapabas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/miprimermod/loot_tables/blocks/basura.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/miorganizacion/miprimermod/init/InitItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/miorganizacion/miprimermod/init/InitItems.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/miorganizacion/miprimermod/init/ModBlocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/miorganizacion/miprimermod/init/ModBlocks.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/assets/miprimermod/lang/en_us.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/miprimermod/lang/en_us.json" afterDir="false" />
@@ -106,33 +75,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.runClient.executor": "Run",
-    "Gradle./Users/pedromrtz/Desktop/TFG/TFGMinecraft/mi_primer_mod [createMcpToSrg].executor": "Run",
-    "Gradle./Users/pedromrtz/Desktop/TFG/mi_primer_mod [:createMcpToSrg :createMcpToSrg :createMcpToSrg].executor": "Run",
-    "Gradle.Build mi_primer_mod.executor": "Run",
-    "Gradle.Download Sources.executor": "Run",
-    "Gradle.mi_primer_mod [:createMcpToSrg :createMcpToSrg :createMcpToSrg].executor": "Run",
-    "Gradle.mi_primer_mod [:prepareRunClient].executor": "Run",
-    "Gradle.mi_primer_mod [build].executor": "Run",
-    "Gradle.mi_primer_mod [genIntellijRuns].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "pedro",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/pedromrtz/Desktop/TFG/TFGMinecraft/mi_primer_mod/src/main/resources/assets/miprimermod/textures/block",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.runClient.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle./Users/pedromrtz/Desktop/TFG/TFGMinecraft/mi_primer_mod [createMcpToSrg].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle./Users/pedromrtz/Desktop/TFG/mi_primer_mod [:createMcpToSrg :createMcpToSrg :createMcpToSrg].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build mi_primer_mod.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Download Sources.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.mi_primer_mod [:createMcpToSrg :createMcpToSrg :createMcpToSrg].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.mi_primer_mod [:prepareRunClient].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.mi_primer_mod [build].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.mi_primer_mod [genIntellijRuns].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;pedro&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/pedromrtz/Desktop/TFG/TFGMinecraft/mi_primer_mod/src/main/resources/assets/miprimermod/textures/block&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/resources/assets/miprimermod/textures/block" />
