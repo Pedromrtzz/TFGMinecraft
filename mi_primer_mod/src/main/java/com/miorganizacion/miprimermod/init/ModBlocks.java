@@ -70,6 +70,10 @@ public class ModBlocks {
             "bote", () -> new BoteBlock(BlockBehaviour.Properties.of(Material.WOOD).noOcclusion().requiresCorrectToolForDrops())
     );
 
+    public static final RegistryObject<Block> OLLA = BLOCKS.register(
+            "olla", () -> new OllaBlock(BlockBehaviour.Properties.of(Material.WOOD).noOcclusion().requiresCorrectToolForDrops())
+    );
+
 
 
 
