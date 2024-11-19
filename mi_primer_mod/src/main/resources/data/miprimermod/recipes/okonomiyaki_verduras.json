@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#OP",
+    "T  "
+  ],
+  "key": {
+    "O": {
+      "item": "minecraft:egg"
+    },
+    "#": {
+      "item": "minecraft:water_bucket"
+    },
+    "P": {
+      "item": "minecraft:potato"
+    },
+    "T": {
+      "item": "miprimermod:harina"
+    }
+  },
+  "result": {
+    "item": "miprimermod:okonomiyaki_verduras"
+  }
+}

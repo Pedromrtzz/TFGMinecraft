@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "O#O"
+  ],
+  "key": {
+    "O": {
+      "item": "miprimermod:fideos"
+    },
+    "#": {
+      "item": "miprimermod:caldo_pescado"
+    }
+  },
+  "result": {
+    "item": "miprimermod:ramen_pescado"
+  }
+}

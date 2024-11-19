@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#O "
+  ],
+  "key": {
+    "O": {
+      "item": "minecraft:wheat"
+    },
+    "#": {
+      "item": "miprimermod:mortero"
+    }
+  },
+  "result": {
+    "item": "miprimermod:harina"
+  }
+}

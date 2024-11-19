@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "miprimermod:block/encimera" },
+    "facing=south": { "model": "miprimermod:block/encimera", "y": 180 },
+    "facing=east":  { "model": "miprimermod:block/encimera", "y": 90 },
+    "facing=west":  { "model": "miprimermod:block/encimera", "y": 270 }
+  }
+}

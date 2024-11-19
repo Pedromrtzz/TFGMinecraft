@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "miprimermod:block/estanteria" },
+    "facing=south": { "model": "miprimermod:block/estanteria", "y": 180 },
+    "facing=east":  { "model": "miprimermod:block/estanteria", "y": 90 },
+    "facing=west":  { "model": "miprimermod:block/estanteria", "y": 270 }
+  }
+}

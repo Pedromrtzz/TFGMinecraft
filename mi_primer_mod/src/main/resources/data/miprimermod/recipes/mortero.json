@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  O",
+    "# #",
+    " # "
+  ],
+  "key": {
+    "O": {
+      "item": "minecraft:stick"
+    },
+    "#": {
+      "item": "minecraft:oak_planks"
+    }
+  },
+  "result": {
+    "item": "miprimermod:mortero"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "miprimermod:block/sushi" },
+    "facing=south": { "model": "miprimermod:block/sushi", "y": 180 },
+    "facing=east":  { "model": "miprimermod:block/sushi", "y": 90 },
+    "facing=west":  { "model": "miprimermod:block/sushi", "y": 270 }
+  }
+}

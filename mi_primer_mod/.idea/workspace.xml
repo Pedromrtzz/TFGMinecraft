@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a9f15a69-6e96-4ad2-bf0d-35339633e512" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="mi_primer_mod" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="mi_primer_mod" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="mi_primer_mod" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="mi_primer_mod" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="forgegradle runs" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="mi_primer_mod" type="f1a62948:ProjectNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="mi_primer_mod" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/TFG-Minecraft" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2hn9f7AtBGAoHHzTLBQm6UaPcFn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.runClient.executor": "Run",
+    "Gradle./Users/pedromrtz/Desktop/TFG/mi_primer_mod [:createMcpToSrg :createMcpToSrg :createMcpToSrg].executor": "Run",
+    "Gradle.Build mi_primer_mod.executor": "Run",
+    "Gradle.Download Sources.executor": "Run",
+    "Gradle.mi_primer_mod [:createMcpToSrg :createMcpToSrg :createMcpToSrg].executor": "Run",
+    "Gradle.mi_primer_mod [:prepareRunClient].executor": "Run",
+    "Gradle.mi_primer_mod [build].executor": "Run",
+    "Gradle.mi_primer_mod [genIntellijRuns].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/pedromrtz/Desktop/TFG/mi_primer_mod/src/main/resources/assets/miprimermod/models/block",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/assets/miprimermod/models/block" />
+      <recent name="$PROJECT_DIR$/src/main/resources/assets/miprimermod/textures/block" />
+      <recent name="$PROJECT_DIR$/src/main/resources/assets/miprimermod/blockstates" />
+      <recent name="$PROJECT_DIR$/src/main/resources/assets/miprimermod/textures/items" />
+      <recent name="$PROJECT_DIR$/src/main/resources/assets/miprimermod/models/item" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/assets/miprimermod/models/block" />
+      <recent name="$PROJECT_DIR$/src/main/resources/assets/miprimermod/textures/block" />
+      <recent name="$PROJECT_DIR$/src/main/resources/assets/miprimermod/textures/items" />
+      <recent name="$PROJECT_DIR$/src/main/resources/assets/miprimermod/textures/blocks" />
+      <recent name="$PROJECT_DIR$/src/main/resources/assets/miprimermod/textures/entities" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.miorganizacion.miprimermod.gui" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.runClient">
+    <configuration name="mi_primer_mod [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="mi_primer_mod [genIntellijRuns]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="genIntellijRuns" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.mi_primer_mod [build]" />
+        <item itemvalue="Gradle.mi_primer_mod [genIntellijRuns]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9f15a69-6e96-4ad2-bf0d-35339633e512" name="Changes" comment="" />
+      <created>1718219075411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718219075411</updated>
+      <workItem from="1718219076696" duration="1788000" />
+      <workItem from="1718220880357" duration="120000" />
+      <workItem from="1718221011974" duration="5906000" />
+      <workItem from="1718712432733" duration="625000" />
+      <workItem from="1718748333762" duration="15130000" />
+      <workItem from="1721841690637" duration="3733000" />
+      <workItem from="1727432106577" duration="58000" />
+      <workItem from="1727695775969" duration="2000000" />
+      <workItem from="1727943761564" duration="307000" />
+      <workItem from="1727944110239" duration="1055000" />
+      <workItem from="1727946101294" duration="194000" />
+      <workItem from="1727946305207" duration="91000" />
+      <workItem from="1727946404569" duration="2169000" />
+      <workItem from="1728036474288" duration="4878000" />
+      <workItem from="1728129953036" duration="32167000" />
+      <workItem from="1728458708502" duration="612000" />
+      <workItem from="1728460380456" duration="40396000" />
+      <workItem from="1728980908521" duration="20011000" />
+      <workItem from="1729161624706" duration="11112000" />
+      <workItem from="1729419390074" duration="14502000" />
+      <workItem from="1729759139394" duration="26000" />
+      <workItem from="1729759378675" duration="15000" />
+      <workItem from="1729759406776" duration="8000" />
+      <workItem from="1730150671311" duration="8413000" />
+      <workItem from="1730722815502" duration="31000" />
+      <workItem from="1730752835204" duration="2692000" />
+      <workItem from="1730910124904" duration="2690000" />
+      <workItem from="1730966485015" duration="3915000" />
+      <workItem from="1731063167615" duration="51000" />
+      <workItem from="1731316481245" duration="285000" />
+      <workItem from="1731323301400" duration="15000" />
+      <workItem from="1731359309062" duration="772000" />
+      <workItem from="1731404696981" duration="464000" />
+      <workItem from="1731411503221" duration="4000" />
+      <workItem from="1731571531802" duration="36000" />
+      <workItem from="1731571581041" duration="25000" />
+      <workItem from="1731571653742" duration="4000" />
+      <workItem from="1731574494689" duration="11000" />
+      <workItem from="1731578082084" duration="10000" />
+      <workItem from="1731583881736" duration="555000" />
+      <workItem from="1731599596575" duration="16818000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:org.spongepowered:mixin" />
+    <option featureType="dependencySupport" implementationName="java:net.minecraftforge:forge" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

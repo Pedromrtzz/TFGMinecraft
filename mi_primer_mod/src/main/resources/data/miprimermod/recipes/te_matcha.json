@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "B#X",
+    "O  "
+  ],
+  "key": {
+    "O": {
+      "item": "minecraft:water_bucket"
+    },
+    "#": {
+      "item": "miprimermod:leche"
+    },
+    "X": {
+      "item": "miprimermod:te"
+    },
+    "B": {
+      "item": "miprimermod:taza"
+    }
+  },
+  "result": {
+    "item": "miprimermod:te_matcha"
+  }
+}

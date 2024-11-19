@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#OT"
+  ],
+  "key": {
+    "O": {
+      "item": "minecraft:water_bucket"
+    },
+    "#": {
+      "item": "miprimermod:sal"
+    }
+  },
+  "result": {
+    "item": "miprimermod:masa"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#O "
+  ],
+  "key": {
+    "O": {
+      "item": "minecraft:kelp"
+    },
+    "#": {
+      "item": "miprimermod:arroz"
+    }
+  },
+  "result": {
+    "item": "miprimermod:onigiri"
+  }
+}
