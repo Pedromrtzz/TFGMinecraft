@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#OT"
+  ],
+  "key": {
+    "O": {
+      "item": "minecraft:salmon"
+    },
+    "#": {
+      "item": "miprimermod:arroz"
+    },
+    "T": {
+      "item": "minecraft:kelp"
+    }
+  },
+  "result": {
+    "item": "miprimermod:sushi"
+  }
+}

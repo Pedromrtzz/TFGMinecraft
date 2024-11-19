@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "OP#"
+  ],
+  "key": {
+    "O": {
+      "item": "miprimermod:sal"
+    },
+    "#": {
+      "item": "miprimermod:harina"
+    },
+    "P": {
+      "item": "miprimermod:mortero"
+    }
+  },
+  "result": {
+    "item": "miprimermod:pasta"
+  }
+}

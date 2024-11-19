@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "O#P",
+    "B  "
+  ],
+  "key": {
+    "O": {
+      "item": "minecraft:bowl"
+    },
+    "#": {
+      "item": "minecraft:water_bucket"
+    },
+    "P": {
+      "item": "minecraft:beef"
+    },
+    "B": {
+      "item": "miprimermod:sal"
+    }
+  },
+  "result": {
+    "item": "miprimermod:caldo_carne"
+  }
+}

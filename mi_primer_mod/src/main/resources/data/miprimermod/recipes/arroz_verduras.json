@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#PB",
+    "O  "
+  ],
+  "key": {
+    "O": {
+      "item": "minecraft:bowl"
+    },
+    "#": {
+      "item": "miprimermod:arroz"
+    },
+    "P": {
+      "item": "minecraft:potato"
+    },
+    "B": {
+      "item": "miprimermod:sal"
+    }
+  },
+  "result": {
+    "item": "miprimermod:arroz_verduras"
+  }
+}

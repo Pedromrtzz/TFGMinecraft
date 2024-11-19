@@ -1,0 +1,90 @@
+{
+  "itemGroup.tutorialtab": "Japón",
+  "item.miprimermod.pokeball": "PokeBall",
+  "item.miprimermod.arroz": "Arroz",
+  "item.miprimermod.mortero": "Mortero",
+  "item.miprimermod.caldo": "Caldo",
+  "item.miprimermod.harina": "Harina",
+  "item.miprimermod.pasta": "Pasta",
+  "item.miprimermod.sal": "Sal",
+  "item.miprimermod.fideos": "Fideos",
+  "item.miprimermod.ramen": "Ramen",
+  "item.miprimermod.caldo_pollo": "Caldo de Pollo",
+  "item.miprimermod.ramen_pollo": "Ramen de Pollo",
+  "item.miprimermod.caldo_carne": "Caldo de Carne",
+  "item.miprimermod.caldo_pescado": "Caldo de Pescado",
+  "item.miprimermod.ramen_pescado": "Ramen de Pescado",
+  "item.miprimermod.ramen_carne": "Ramen de Carne",
+  "item.miprimermod.okonomiyaki_pollo": "Okonomiyaki de Pollo",
+  "item.miprimermod.okonomiyaki_carne": "Okonomiyaki de Carne",
+  "item.miprimermod.okonomiyaki_verduras": "Okonomiyaki de Verduras",
+  "item.miprimermod.galleta_suerte": "Galleta de la suerte",
+  "item.miprimermod.masa": "Masa",
+  "item.miprimermod.dumpling": "Dumpling",
+  "item.miprimermod.sushi": "Sushi",
+  "item.miprimermod.taza": "Taza",
+  "item.miprimermod.leche": "Leche",
+  "item.miprimermod.te": "Te Verde",
+  "item.miprimermod.te_matcha": "Té Matcha",
+  "item.miprimermod.pasta_arroz": "Pasta de Arroz",
+  "item.miprimermod.mochi_verde": "Mochi de Té Verde",
+  "item.miprimermod.mochi_fresa": "Mochi de Fresa",
+  "item.miprimermod.fresa": "Fresa",
+  "item.miprimermod.brocheta_pollo": "Brocheta de Pollo",
+  "item.miprimermod.cebolla": "Cebolla",
+  "item.miprimermod.teriyaki": "Salsa Teriyaki",
+  "item.miprimermod.arroz_pollo": "Arroz con Pollo",
+  "item.miprimermod.arroz_verduras": "Arroz con Verduras",
+  "item.miprimermod.arroz_frito": "Arroz Frito",
+  "item.miprimermod.onigiri": "Onigiri",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  "block.miprimermod.sarten": "Sarten",
+  "block.miprimermod.mesa": "Mesa",
+  "block.miprimermod.silla": "Silla",
+  "block.miprimermod.encimera": "Encimera",
+  "block.miprimermod.encimera_entera": "Encimera Entera",
+  "block.miprimermod.extractor": "Extractor",
+  "block.miprimermod.armario_arriba": "Armario de Arriba",
+  "block.miprimermod.sushi": "Sushi",
+  "block.miprimermod.vitroceramica": "Vitroceramica",
+  "block.miprimermod.estanteria": "Estanteria",
+  "block.miprimermod.nevera": "Nevera",
+  "block.miprimermod.bote": "Bote",
+  "block.miprimermod.fregadero": "Fregadero"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

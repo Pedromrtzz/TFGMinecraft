@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "miprimermod:block/vitroceramica" },
+    "facing=south": { "model": "miprimermod:block/vitroceramica", "y": 180 },
+    "facing=east":  { "model": "miprimermod:block/vitroceramica", "y": 90 },
+    "facing=west":  { "model": "miprimermod:block/vitroceramica", "y": 270 }
+  }
+}

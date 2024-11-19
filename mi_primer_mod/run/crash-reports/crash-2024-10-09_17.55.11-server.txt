@@ -1,0 +1,116 @@
+---- Minecraft Crash Report ----
+// Surprise! Haha. Well, this is awkward.
+
+Time: 9/10/24 17:55
+Description: Saving entity NBT
+
+java.lang.NullPointerException: Cannot invoke "net.minecraft.resources.ResourceLocation.toString()" because the return value of "net.minecraft.core.Registry.getKey(Object)" is null
+	at net.minecraft.world.entity.ai.attributes.AttributeInstance.save(AttributeInstance.java:175) ~[forge-1.19-41.1.0_mapped_official_1.19.jar%23179!/:?] {re:classloading}
+	at net.minecraft.world.entity.ai.attributes.AttributeMap.save(AttributeMap.java:108) ~[forge-1.19-41.1.0_mapped_official_1.19.jar%23179!/:?] {re:classloading}
+	at net.minecraft.world.entity.LivingEntity.addAdditionalSaveData(LivingEntity.java:662) ~[forge-1.19-41.1.0_mapped_official_1.19.jar%23179!/:?] {re:classloading}
+	at net.minecraft.world.entity.player.Player.addAdditionalSaveData(Player.java:785) ~[forge-1.19-41.1.0_mapped_official_1.19.jar%23179!/:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.level.ServerPlayer.addAdditionalSaveData(ServerPlayer.java:321) ~[forge-1.19-41.1.0_mapped_official_1.19.jar%23179!/:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.world.entity.Entity.saveWithoutId(Entity.java:1530) ~[forge-1.19-41.1.0_mapped_official_1.19.jar%23179!/:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.client.server.IntegratedPlayerList.save(IntegratedPlayerList.java:25) ~[forge-1.19-41.1.0_mapped_official_1.19.jar%23179!/:?] {re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.server.players.PlayerList.saveAll(PlayerList.java:626) ~[forge-1.19-41.1.0_mapped_official_1.19.jar%23179!/:?] {re:classloading}
+	at net.minecraft.server.MinecraftServer.saveEverything(MinecraftServer.java:521) ~[forge-1.19-41.1.0_mapped_official_1.19.jar%23179!/:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.client.server.IntegratedServer.tickServer(IntegratedServer.java:76) ~[forge-1.19-41.1.0_mapped_official_1.19.jar%23179!/:?] {re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:654) ~[forge-1.19-41.1.0_mapped_official_1.19.jar%23179!/:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:245) ~[forge-1.19-41.1.0_mapped_official_1.19.jar%23179!/:?] {re:classloading,pl:accesstransformer:B}
+	at java.lang.Thread.run(Thread.java:842) [?:?] {}
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server thread
+Stacktrace:
+	at net.minecraft.world.entity.ai.attributes.AttributeInstance.save(AttributeInstance.java:175) ~[forge-1.19-41.1.0_mapped_official_1.19.jar%23179!/:?] {re:classloading}
+	at net.minecraft.world.entity.ai.attributes.AttributeMap.save(AttributeMap.java:108) ~[forge-1.19-41.1.0_mapped_official_1.19.jar%23179!/:?] {re:classloading}
+	at net.minecraft.world.entity.LivingEntity.addAdditionalSaveData(LivingEntity.java:662) ~[forge-1.19-41.1.0_mapped_official_1.19.jar%23179!/:?] {re:classloading}
+	at net.minecraft.world.entity.player.Player.addAdditionalSaveData(Player.java:785) ~[forge-1.19-41.1.0_mapped_official_1.19.jar%23179!/:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.level.ServerPlayer.addAdditionalSaveData(ServerPlayer.java:321) ~[forge-1.19-41.1.0_mapped_official_1.19.jar%23179!/:?] {re:classloading,pl:accesstransformer:B}
+-- Entity being saved --
+Details:
+	Entity Type: minecraft:player (net.minecraft.server.level.ServerPlayer)
+	Entity ID: 226
+	Entity Name: Dev
+	Entity's Exact location: -5.50, 70.00, 8.50
+	Entity's Block location: World: (-6,70,8), Section: (at 10,6,8 in -1,4,0; chunk contains blocks -16,-64,0 to -1,319,15), Region: (-1,0; contains chunks -32,0 to -1,31, blocks -512,-64,0 to -1,319,511)
+	Entity's Momentum: 0.00, -0.08, 0.00
+	Entity's Passengers: []
+	Entity's Vehicle: null
+Stacktrace:
+	at net.minecraft.world.entity.Entity.saveWithoutId(Entity.java:1530) ~[forge-1.19-41.1.0_mapped_official_1.19.jar%23179!/:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.client.server.IntegratedPlayerList.save(IntegratedPlayerList.java:25) ~[forge-1.19-41.1.0_mapped_official_1.19.jar%23179!/:?] {re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.server.players.PlayerList.saveAll(PlayerList.java:626) ~[forge-1.19-41.1.0_mapped_official_1.19.jar%23179!/:?] {re:classloading}
+	at net.minecraft.server.MinecraftServer.saveEverything(MinecraftServer.java:521) ~[forge-1.19-41.1.0_mapped_official_1.19.jar%23179!/:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.client.server.IntegratedServer.tickServer(IntegratedServer.java:76) ~[forge-1.19-41.1.0_mapped_official_1.19.jar%23179!/:?] {re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:654) ~[forge-1.19-41.1.0_mapped_official_1.19.jar%23179!/:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:245) ~[forge-1.19-41.1.0_mapped_official_1.19.jar%23179!/:?] {re:classloading,pl:accesstransformer:B}
+	at java.lang.Thread.run(Thread.java:842) [?:?] {}
+
+
+-- System Details --
+Details:
+	Minecraft Version: 1.19
+	Minecraft Version ID: 1.19
+	Operating System: Mac OS X (aarch64) version 15.0
+	Java Version: 17.0.10, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode, sharing), Oracle Corporation
+	Memory: 309301632 bytes (294 MiB) / 1190133760 bytes (1135 MiB) up to 2147483648 bytes (2048 MiB)
+	CPUs: 8
+	Processor Vendor: Apple Inc.
+	Processor Name: Apple M2
+	Identifier: Apple Inc. Family 0xda33d83d Model 0 Stepping 0
+	Microarchitecture: unknown
+	Frequency (GHz): 24,00
+	Number of physical packages: 1
+	Number of physical CPUs: 8
+	Number of logical CPUs: 8
+	Graphics card #0 name: Apple M2
+	Graphics card #0 vendor: Apple (0x106b)
+	Graphics card #0 VRAM (MB): 0,00
+	Graphics card #0 deviceId: unknown
+	Graphics card #0 versionInfo: unknown
+	Memory slot #0 capacity (MB): 0,00
+	Memory slot #0 clockSpeed (GHz): 0,00
+	Memory slot #0 type: unknown
+	Virtual memory max (MB): 11264,00
+	Virtual memory used (MB): 8705,80
+	Swap memory total (MB): 3072,00
+	Swap memory used (MB): 1771,13
+	JVM Flags: 0 total; 
+	Server Running: true
+	Player Count: 1 / 8; [ServerPlayer['Dev'/226, l='ServerLevel[New World]', x=-5.50, y=70.00, z=8.50]]
+	Data Packs: vanilla, mod:forge, mod:miprimermod
+	World Generation: Stable
+	Type: Integrated Server (map_client.txt)
+	Is Modded: Definitely; Client brand changed to 'forge'; Server brand changed to 'forge'
+	Launched Version: MOD_DEV
+	ModLauncher: 10.0.9+10.0.9+main.dcd20f30
+	ModLauncher launch target: forgeclientuserdev
+	ModLauncher naming: mcp
+	ModLauncher services: 
+		mixin-0.8.5.jar mixin PLUGINSERVICE 
+		eventbus-6.0.0.jar eventbus PLUGINSERVICE 
+		fmlloader-1.19-41.1.0.jar slf4jfixer PLUGINSERVICE 
+		fmlloader-1.19-41.1.0.jar object_holder_definalize PLUGINSERVICE 
+		fmlloader-1.19-41.1.0.jar runtime_enum_extender PLUGINSERVICE 
+		fmlloader-1.19-41.1.0.jar capability_token_subclass PLUGINSERVICE 
+		accesstransformers-8.0.4.jar accesstransformer PLUGINSERVICE 
+		fmlloader-1.19-41.1.0.jar runtimedistcleaner PLUGINSERVICE 
+		modlauncher-10.0.9.jar mixin TRANSFORMATIONSERVICE 
+		modlauncher-10.0.9.jar fml TRANSFORMATIONSERVICE 
+	FML Language Providers: 
+		minecraft@1.0
+		lowcodefml@null
+		javafml@null
+	Mod List: 
+		forge-1.19-41.1.0_mapped_official_1.19.jar        |Minecraft                     |minecraft                     |1.19                |DONE      |Manifest: a1:d4:5e:04:4f:d3:d6:e0:7b:37:97:cf:77:b0:de:ad:4a:47:ce:8c:96:49:5f:0a:cf:8c:ae:b2:6d:4b:8a:3f
+		                                                  |Forge                         |forge                         |41.1.0              |DONE      |Manifest: NOSIGNATURE
+		main                                              |Example Mod                   |miprimermod                   |1.0.0.0             |DONE      |Manifest: NOSIGNATURE
+	Crash Report UUID: 085bc492-7268-4d1e-9ef2-770d46edca6a
+	FML: 41.1
+	Forge: net.minecraftforge:41.1.0

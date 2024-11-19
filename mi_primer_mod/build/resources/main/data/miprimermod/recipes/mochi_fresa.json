@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#O "
+  ],
+  "key": {
+    "O": {
+      "item": "miprimermod:pasta_arroz"
+    },
+    "#": {
+      "item": "miprimermod:fresa"
+    }
+  },
+  "result": {
+    "item": "miprimermod:mochi_fresa"
+  }
+}

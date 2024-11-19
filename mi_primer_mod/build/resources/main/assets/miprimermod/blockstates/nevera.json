@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "miprimermod:block/nevera" },
+    "facing=south": { "model": "miprimermod:block/nevera", "y": 180 },
+    "facing=east":  { "model": "miprimermod:block/nevera", "y": 90 },
+    "facing=west":  { "model": "miprimermod:block/nevera", "y": 270 }
+  }
+}

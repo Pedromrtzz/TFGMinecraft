@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: miprimermod
+Specification-Vendor: miprimermodsareus
+Specification-Version: 1
+Implementation-Title: mi_primer_mod
+Implementation-Version: 1.0.0.0
+Implementation-Vendor: miprimermodsareus
+Implementation-Timestamp: 2024-10-10T17:43:38+0200
+

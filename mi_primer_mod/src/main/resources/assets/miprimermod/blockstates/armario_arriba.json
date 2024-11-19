@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "miprimermod:block/armario_arriba" },
+    "facing=south": { "model": "miprimermod:block/armario_arriba", "y": 180 },
+    "facing=east":  { "model": "miprimermod:block/armario_arriba", "y": 90 },
+    "facing=west":  { "model": "miprimermod:block/armario_arriba", "y": 270 }
+  }
+}

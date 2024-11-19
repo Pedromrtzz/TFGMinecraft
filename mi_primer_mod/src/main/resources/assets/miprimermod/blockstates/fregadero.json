@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "miprimermod:block/fregadero" },
+    "facing=south": { "model": "miprimermod:block/fregadero", "y": 180 },
+    "facing=east":  { "model": "miprimermod:block/fregadero", "y": 90 },
+    "facing=west":  { "model": "miprimermod:block/fregadero", "y": 270 }
+  }
+}

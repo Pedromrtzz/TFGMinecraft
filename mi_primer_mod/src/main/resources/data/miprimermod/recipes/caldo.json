@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#O "
+  ],
+  "key": {
+    "O": {
+      "item": "minecraft:water_bucket"
+    },
+    "#": {
+      "item": "minecraft:bowl"
+    }
+  },
+  "result": {
+    "item": "miprimermod:caldo"
+  }
+}
