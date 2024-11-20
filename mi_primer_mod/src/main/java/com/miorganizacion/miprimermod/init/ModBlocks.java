@@ -82,6 +82,10 @@ public class ModBlocks {
             "microondas", () -> new MicroondasBlock(BlockBehaviour.Properties.of(Material.WOOD).noOcclusion().requiresCorrectToolForDrops())
     );
 
+    public static final RegistryObject<Block> BALDA = BLOCKS.register(
+            "balda", () -> new BaldaBlock(BlockBehaviour.Properties.of(Material.WOOD).noOcclusion().requiresCorrectToolForDrops())
+    );
+
 
 
 

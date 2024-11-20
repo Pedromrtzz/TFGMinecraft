@@ -255,6 +255,10 @@ public class InitItems {
             "microondas", () -> new BlockItem(ModBlocks.MICROONDAS.get(), new Item.Properties().tab(ModCreativeTab.TUTORIAL_TAB))
     );
 
+    public static final RegistryObject<Item> BALDA = ITEMS.register(
+            "balda", () -> new BlockItem(ModBlocks.BALDA.get(), new Item.Properties().tab(ModCreativeTab.TUTORIAL_TAB))
+    );
+
     public static final RegistryObject<Item> SUSHI = ITEMS.register(
             "sushi", () -> new BlockItem(ModBlocks.SUSHI.get(), new Item.Properties()
                     .tab(ModCreativeTab.TUTORIAL_TAB)
