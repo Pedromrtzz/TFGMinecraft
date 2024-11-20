@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9f15a69-6e96-4ad2-bf0d-35339633e512" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/miorganizacion/miprimermod/init/custom/BasuraBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/miprimermod/blockstates/basura.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/miprimermod/models/block/basura.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/miprimermod/models/item/basura.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/miprimermod/textures/block/basura.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/miprimermod/textures/block/piebas.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/miprimermod/textures/block/tapabas.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/data/miprimermod/loot_tables/blocks/basura.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/miorganizacion/miprimermod/init/custom/MicroondasBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/miprimermod/blockstates/microondas.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/miprimermod/models/block/microondas.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/miprimermod/models/item/microondas.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/miprimermod/textures/block/microondas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/miprimermod/loot_tables/blocks/microondas.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/miorganizacion/miprimermod/init/InitItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/miorganizacion/miprimermod/init/InitItems.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/miorganizacion/miprimermod/init/ModBlocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/miorganizacion/miprimermod/init/ModBlocks.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/assets/miprimermod/lang/en_us.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/miprimermod/lang/en_us.json" afterDir="false" />
