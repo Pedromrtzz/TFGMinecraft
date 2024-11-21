@@ -247,6 +247,18 @@ public class InitItems {
             "olla", () -> new BlockItem(ModBlocks.OLLA.get(), new Item.Properties().tab(ModCreativeTab.TUTORIAL_TAB))
     );
 
+    public static final RegistryObject<Item> BASURA = ITEMS.register(
+            "basura", () -> new BlockItem(ModBlocks.BASURA.get(), new Item.Properties().tab(ModCreativeTab.TUTORIAL_TAB))
+    );
+
+    public static final RegistryObject<Item> MICROONDAS = ITEMS.register(
+            "microondas", () -> new BlockItem(ModBlocks.MICROONDAS.get(), new Item.Properties().tab(ModCreativeTab.TUTORIAL_TAB))
+    );
+
+    public static final RegistryObject<Item> BALDA = ITEMS.register(
+            "balda", () -> new BlockItem(ModBlocks.BALDA.get(), new Item.Properties().tab(ModCreativeTab.TUTORIAL_TAB))
+    );
+
     public static final RegistryObject<Item> SUSHI = ITEMS.register(
             "sushi", () -> new BlockItem(ModBlocks.SUSHI.get(), new Item.Properties()
                     .tab(ModCreativeTab.TUTORIAL_TAB)

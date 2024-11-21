@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "miprimermod:block/balda" },
+    "facing=south": { "model": "miprimermod:block/balda", "y": 180 },
+    "facing=east":  { "model": "miprimermod:block/balda", "y": 90 },
+    "facing=west":  { "model": "miprimermod:block/balda", "y": 270 }
+  }
+}

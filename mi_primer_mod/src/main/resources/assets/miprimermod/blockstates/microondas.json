@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "miprimermod:block/microondas" },
+    "facing=south": { "model": "miprimermod:block/microondas", "y": 180 },
+    "facing=east":  { "model": "miprimermod:block/microondas", "y": 90 },
+    "facing=west":  { "model": "miprimermod:block/microondas", "y": 270 }
+  }
+}

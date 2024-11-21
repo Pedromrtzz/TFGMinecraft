@@ -74,6 +74,19 @@ public class ModBlocks {
             "olla", () -> new OllaBlock(BlockBehaviour.Properties.of(Material.WOOD).noOcclusion().requiresCorrectToolForDrops())
     );
 
+    public static final RegistryObject<Block> BASURA = BLOCKS.register(
+            "basura", () -> new BasuraBlock(BlockBehaviour.Properties.of(Material.WOOD).noOcclusion().requiresCorrectToolForDrops())
+    );
+
+    public static final RegistryObject<Block> MICROONDAS = BLOCKS.register(
+            "microondas", () -> new MicroondasBlock(BlockBehaviour.Properties.of(Material.WOOD).noOcclusion().requiresCorrectToolForDrops())
+    );
+
+    public static final RegistryObject<Block> BALDA = BLOCKS.register(
+            "balda", () -> new BaldaBlock(BlockBehaviour.Properties.of(Material.WOOD).noOcclusion().requiresCorrectToolForDrops())
+    );
+
+
 
 
 
