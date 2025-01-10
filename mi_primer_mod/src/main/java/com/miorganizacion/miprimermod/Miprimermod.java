@@ -1,6 +1,5 @@
 package com.miorganizacion.miprimermod;
 
-import com.miorganizacion.miprimermod.events.EventHandlers;
 import com.miorganizacion.miprimermod.init.InitItems;
 import com.miorganizacion.miprimermod.init.ModBlocks;
 import net.minecraftforge.common.MinecraftForge;
@@ -19,7 +18,5 @@ public class Miprimermod {
         InitItems.ITEMS.register(bus);
         ModBlocks.BLOCKS.register(bus);
 
-        // Registro de manejadores de eventos en el bus general de Minecraft
-        MinecraftForge.EVENT_BUS.register(new EventHandlers());
     }
 }
