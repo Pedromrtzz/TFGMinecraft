@@ -187,10 +187,6 @@ public class InitItems {
 
 
 
-
-
-
-
     public static final RegistryObject<Item> GALLETA_SUERTE = ITEMS.register(
             "galleta_suerte", () -> new GalletaSuerteItem(new Item.Properties().tab(ModCreativeTab.TUTORIAL_TAB))
     );
